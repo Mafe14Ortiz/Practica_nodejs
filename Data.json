@@ -1,8 +1,24 @@
+[{
+    "name": "Maria",
+    "age": 18,
+    "id": [1, 0, 1, 6, 9, 4, 3, 3, 4, 1],
+    "weight": 64.8,
+    "height": 1.70
+},
 
 {
-	"name": "Maria",
-	"age": 18,
-	"id": [1, 0, 1, 6, 9, 4, 3, 3, 4, 1],
-	"weight": 64.8,
-	"height": 1.70
+
+    "name": "Daniela",
+    "age": 22,
+    "id": [1, 0, 1, 4, 3, 0, 6, 0, 7, 2],
+    "weight": 64.8,
+    "height": 1.64
+},
+
+{
+    "name": "mateo",
+    "race": "pitbull",
+    "age": 2,
+    "weight": 14.5
 }
+]
